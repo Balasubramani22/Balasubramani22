@@ -16,6 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Balasubramani22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Balasubramani22&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Balasubramani22&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
